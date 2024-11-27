@@ -33,7 +33,7 @@ int main (){
             printf("The total value for your goods is %.2f \n",value_goods);
             printf("------------------------------------------------- \n");
 
-        number_customer = number_customer --;
+        number_customer = number_customer -1;
 
     }
 
